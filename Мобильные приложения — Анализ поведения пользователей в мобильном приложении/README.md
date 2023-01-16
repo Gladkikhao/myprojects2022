@@ -40,7 +40,7 @@
 4.1 Вывод на основании исследования и рекомендации
   
 ## Материалы   
-5.1 Ссылка на презентацию. 
+5.1 Ссылка на презентацию. https://disk.yandex.ru/i/7MOnCeFVkycORQ
 
 # Дашборд  
 **ссылка:** https://public.tableau.com/views/_16709946761600/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link    
